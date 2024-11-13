@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Shantar -->
+	<territory color="1289674500">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1732.50" z="3073.13" r="80"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1801.88" z="2805.00" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2032.50" z="2718.75" r="150"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2221.88" z="2491.88" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2508.75" z="2480.63" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2645.63" z="2308.13" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2878.13" z="2426.25" r="150"/>
+    </territory>
+	<territory color="1289674500">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3575.63" z="2328.75" r="75"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3450.00" z="2638.13" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3352.50" z="2956.88" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3131.25" z="3337.50" r="90"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2866.88" z="3435.00" r="100"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2456.25" z="3630.00" r="120"/>
+    </territory>
+	<territory color="1289674500">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2000.63" z="3811.88" r="75"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2203.13" z="3337.50" r="90"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2360.63" z="2932.50" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2733.75" z="3232.50" r="90"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2958.75" z="3376.88" r="100"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3114.38" z="2893.13" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3075.00" z="2600.63" r="120"/>
+    </territory>
+	<!-- Shantar -->
+</territory-type>

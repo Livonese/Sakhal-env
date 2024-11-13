@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Skhalin Geopp west -->
+	<territory color="1289674460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7770.00" z="10833.75" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7966.88" z="10408.13" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8392.50" z="10440.00" r="70"/>
+    </territory>
+	<!-- Skhalin Geopp west -->
+	<!-- Lesogorovka -->
+	<territory color="1289674460">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10809.38" z="10355.63" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10805.63" z="9684.38" r="80"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11176.88" z="9395.63" r="70"/>
+    </territory>
+	<!-- Lesogorovka -->
+</territory-type>

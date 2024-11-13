@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>	<!--Ice Ridge west-->
+    <territory color="2841534046">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9022.50" z="8467.50" r="70"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9217.50" z="8763.75" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9427.50" z="8823.75" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9753.75" z="8913.75" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10125.00" z="9123.75" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10470.00" z="9116.25" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10533.75" z="8786.25" r="80"/>
+    </territory>	<!--Ice Ridge west-->	<!--Vysokoye-->
+    <territory color="1040187392">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10537.50" z="8467.50" r="70"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="10650.00" z="7713.75" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10751.25" z="7981.88" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11019.38" z="8221.88" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11250.00" z="8463.75" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11431.88" z="8604.38" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11688.75" z="8437.50" r="80"/>
+    </territory>	<!--Vysokoye-->	<!--East Peak-->
+    <territory color="2841534046">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12930.00" z="8626.88" r="70"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12667.50" z="8868.75" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12570.00" z="9103.13" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12588.75" z="9435.00" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="12811.88" z="9731.25" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13149.38" z="9783.75" r="120"/>
+    </territory>	<!--East Peak-->	<!--nomansland-->
+    <territory color="1090519040">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13473.75" z="9834.38" r="70"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="13708.13" z="10145.63" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="13678.13" z="10636.88" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13788.75" z="11205.00" r="120"/>
+    </territory>	<!--nomansland-->	<!--Zvezdnyy Nikel-->
+    <territory color="1090519040">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12712.50" z="10858.13" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12384.38" z="11216.25" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11966.25" z="11520.00" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11572.50" z="12088.13" r="125"/>        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10921.88" z="12026.25" r="120"/>        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10539.38" z="12311.25" r="110"/>        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9990.00" z="12658.13" r="90"/>
+    </territory>	<!--Zvezdnyy Nikel-->	<!--iturup-->
+    <territory color="2841534046">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9791.25" z="10672.50" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9330.00" z="11392.50" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8531.25" z="11677.50" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8073.75" z="11587.50" r="125"/>        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7650" z="11295.00" r="120"/>
+    </territory>	<!--iturup-->	<!--Petropavlovsk-->
+    <territory color="1275068416">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7338.75" z="10027.50" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6828.75" z="9656.25" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6600.00" z="9018.75" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6573.75" z="8351.25" r="125"/>        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5812.50" z="8156.25" r="120"/>
+    </territory>	<!--Petropavlovsk-->
+</territory-type>

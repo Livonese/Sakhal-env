@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <!--Vysokoye-->
+	<territory color="872348448">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9571.88" z="6570.00" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9679.69" z="6827.81" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9937.50" z="6366.56" r="60"/>
+    </territory>
+    <!--Vysokoye-->
+    <!--Taranaj-->
+	<territory color="872348448">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11088.75" z="8086.88" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11321.25" z="8028.75" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10869" z="7974.38" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11070.00" z="7848.75" r="45"/>
+    </territory>
+    <!--Taranaj-->
+    <!--Tikhoye-->
+	<territory color="872348448">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6336.09" z="8949.38" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6448.59" z="8835.47" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6413.44" z="8673.75" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6210.94" z="8685.94" r="50"/>
+    </territory>
+    <!--Tikhoye-->
+    <!--Burukan-->
+	<territory color="872348448">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2850.94" z="7250.63" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2723.44" z="7423.13" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2987.81" z="7129.69" r="60"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3295.31" z="6851.25" r="50"/>
+    </territory>
+    <!--Burukan-->
+</territory-type>
