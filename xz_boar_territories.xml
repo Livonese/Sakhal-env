@@ -2,32 +2,85 @@
 <territory-type>
 	<!-- Sakhalin Geopp north -->
     <territory color="2952645157">
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8608.13" z="11296.88" r="90"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8301.56" z="10830.94" r="120"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8864.06" z="10410.00" r="100"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9300.94" z="10116.56" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8962.50" z="11652.19" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9152.81" z="11435.63" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9319.69" z="11015.63" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9138.75" z="10690.31" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8890.31" z="10863.75" r="80"/>
     </territory>
 	<!-- Sakhalin Geopp north -->
-	<!-- Dolinovka -->
+	<!-- Sakhalin Geopp north -->
     <territory color="2952645157">
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9993.75" z="10291.88" r="90"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10601.25" z="9699.38" r="120"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11206.88" z="9318.75" r="100"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8580.00" z="11272.50" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8471.25" z="11070.00" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8431.88" z="10890.00" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8520.00" z="10650.00" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8649.38" z="10323.75" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8745.00" z="10201.88" r="70"/>
     </territory>
-	<!-- Dolinovka -->
-	<!-- Lesogorovka -->
+	<!-- Sakhalin Geopp north -->
+	<!-- Sakhalin Geopp west -->
     <territory color="2952645157">
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11053.13" z="10432.50" r="100"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11559.38" z="9772.50" r="90"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11175" z="9228.75" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8049.38" z="10421.25" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8230.31" z="10122.19" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8382.19" z="9896.25" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8580.00" z="9815.63" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8454.38" z="9605.63" r="90"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8251.88" z="9367.50" r="70"/>
     </territory>
-	<!-- Lesogorovka -->
+	<!-- Sakhalin Geopp west -->
 	<!-- Skhalin/Yasnaya -->
     <territory color="2952645157">
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7526.25" z="10258.13" r="90"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7749.38" z="9675.00" r="120"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7539.38" z="9161.25" r="100"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7968.75" z="8606.25" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8750.63" z="9202.50" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8458.13" z="8951.25" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8199.38" z="9131.25" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8358.75" z="9489.38" r="90"/>
     </territory>
 	<!-- Skhalin/Yasnaya -->
+	<!-- Goryachevo -->
+    <territory color="2952645157">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8767.50" z="10220.63" r="65"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9073.13" z="10111.88" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9240.00" z="9785.63" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8895.00" z="9673.13" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8568.75" z="9916.88" r="90"/>
+    </territory>
+	<!-- Goryachevo -->
+	<!-- Dolinovka -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9826.88" z="9916.88" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9791.25" z="10151.25" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9551.25" z="10042.50" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9545.63" z="9714.38" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9971.25" z="9691.88" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9875.63" z="9478.13" r="100"/>
+    </territory>
+	<!-- Dolinovka -->
+	<!-- Dolinovka south -->
+    <territory color="2952645157">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="10080.00" z="10511.25" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9279.38" z="9605.63" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9525.00" z="9564.38" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9832.50" z="9675.00" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10250.63" z="9630.00" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10351.88" z="9388.13" r="100"/>
+    </territory>
+	<!-- Dolinovka south -->
+	<!-- Lesogorovka -->
+    <territory color="2952645157">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="10816.88" z="9881.25" r="100"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10745.63" z="9618.75" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10828.13" z="9376.88" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11058.75" z="9283.13" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11319.38" z="9478.13" r="120"/>
+    </territory>
+	<!-- Lesogorovka -->
+	<!-- Lesogorovka north -->
+    <territory color="2952645157">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10891.88" z="10170.00" r="90"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10618.13" z="10095.00" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10443.75" z="9967.50" r="120"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10526.25" z="9729.38" r="120"/>
+    </territory>
+	<!-- Lesogorovka north -->
 </territory-type>
