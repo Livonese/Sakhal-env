@@ -43,7 +43,19 @@
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9330.00" z="11392.50" r="60"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8531.25" z="11677.50" r="120"/>
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8073.75" z="11587.50" r="125"/>        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7650" z="11295.00" r="120"/>
-    </territory>	<!--iturup-->	<!--Petropavlovsk-->
+    </territory>	<!--iturup-->	<!--Yasnomorsk/Sovetskoye-->
+    <territory color="1275068416">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7912.50" z="12648.75" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7479.38" z="12930.00" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7110.00" z="12585.00" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6877.50" z="12180.00" r="125"/>        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7350.00" z="11977.50" r="120"/>
+    </territory>	<!--Yasnomorsk/Sovetskoye-->	<!--Zhupanovo/Sovetskoye-->
+    <territory color="1275068416">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6101.25" z="12178.13" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6603.75" z="12373.13" r="60"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6721.88" z="11921.25" r="120"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6721.88" z="11473.13" r="125"/>        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6204.38" z="11486.25" r="120"/>
+    </territory>	<!--Zhupanovo/Sovetskoye-->	<!--Petropavlovsk-->
     <territory color="1275068416">
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7338.75" z="10027.50" r="70"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6828.75" z="9656.25" r="60"/>

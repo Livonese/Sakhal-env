@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <!--Sakhalin Geopp/Yasnaya Polyana-->
+    <territory color="1537868032">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8850" z="10717" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8891" z="10278" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8411" z="10001" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8409" z="9570" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8036" z="9151" r="180"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7361" z="8940" r="200"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6783" z="8621" r="200"/>
+		<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6800" z="8398" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7233" z="8130" r="180"/>
+    </territory>
+    <!--Sakhalin Geopp/Yasnaya Polyana-->
+    <!--Burukan/Bolotnoye-->
+    <territory color="1537868032">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4419" z="8655" r="180"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4565" z="8981" r="160"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4029" z="9060" r="130"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3354" z="9324" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2671" z="8833" r="180"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2034" z="8115" r="200"/>
+    </territory>
+    <!--Burukan/Bolotnoye-->
+    <!--Burukan north-->
+    <territory color="1537868032">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1614" z="8268" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1301" z="7738" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1606" z="7265" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2060" z="6787" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3174" z="6538" r="200"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3789" z="6481" r="200"/>
+    </territory>
+    <!--Burukan north-->
+    <!--Burukan-->
+    <territory color="1537868032">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3159" z="5797" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3654" z="5703" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4323" z="5514" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4996" z="5088" r="200"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4779" z="5416" r="200"/>
+    </territory>
+    <!--Burukan-->
+    <!--Burukan-->
+    <territory color="1537868032">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5265" z="4981" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5754" z="4792" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6112" z="4584" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6397" z="4365" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5943" z="4192" r="200"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="5716" z="4065" r="200"/>
+    </territory>
+    <!--Burukan-->
+</territory-type>

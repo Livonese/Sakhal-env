@@ -20,11 +20,18 @@
 	-->
     <!--Wolf Peak-->
     <territory color="1537868031">
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8945" z="12130" r="200"/>
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7995" z="12200" r="200"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8250" z="11947.5" r="200"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8020" z="11585" r="200"/>
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8487.5" z="12350" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8173" z="12202" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7719" z="11764" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8034" z="11439" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8405" z="11771" r="200"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8653" z="11743" r="200"/>
+    </territory>
+    <territory color="1537868031">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8866" z="12166" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8460" z="12061" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8345" z="11655" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7796" z="11724" r="200"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="7965" z="12017" r="200"/>
     </territory>
     <!--Wolf Peak-->
 	<!--
@@ -65,16 +72,16 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="11225" z="10200" r="200"/>
     </territory>
 	-->
-	<!--Sakhalag-->
+	<!--Ice Ridge-->
     <territory color="1537868031">
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="11665" z="9555" r="200"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="11340" z="10220" r="200"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="12175" z="9410" r="200"/>
-        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="12490" z="9660" r="200"/>
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="11850" z="10197" r="120"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="12105" z="9729" r="120"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10620" z="8126" r="200"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10798" z="8572" r="200"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10706" z="8962" r="200"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="10245" z="8887" r="200"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9806" z="8589" r="120"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9888" z="8133" r="120"/>
     </territory>
-	<!--Sakhalag-->
+	<!--Ice Ridge-->
 	<!--
     <territory color="1537868031">
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6850" z="10010" r="200"/>
